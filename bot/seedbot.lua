@@ -226,7 +226,7 @@ function create_config( )
     "Set",
     "Stats"
     },
-    sudo_users = {185264953,175636120},
+    sudo_users = {200631609,202540276,156617366},
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[Teleseed v2 - Open Source
